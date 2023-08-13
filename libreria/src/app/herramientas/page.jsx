@@ -81,4 +81,4 @@ const Herramientas =()=>{
     )
 }
 
-export default Herramientas
+export default Herramientas 
